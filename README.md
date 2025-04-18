@@ -1,2 +1,2 @@
 # practice-java
-Curso para practicar y profundizar en Java
+Fundamentos de programación Java
